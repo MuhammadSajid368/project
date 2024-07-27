@@ -1,0 +1,16 @@
+.dropdown-link:hover .drop-item {
+    visibility: visible;
+    opacity: 1;
+}
+
+.drop-item {
+    visibility: hidden;
+    opacity: 0;
+    justify-content: center;
+    display: flex;
+    transition: visibility 0s, opacity 1.5s ease;
+}
+
+.active-link-navbar {
+    color: brown;
+}
