@@ -37,5 +37,5 @@ This Learning Management System (LMS) is a comprehensive platform designed for e
 ### Backend Setup
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/lms.git
+   git clone https://github.com/MuhammadSajid368/project.git
    cd lms/server
