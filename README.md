@@ -11,6 +11,7 @@ This Learning Management System (LMS) is a comprehensive platform designed for e
 - **User Management**: View all users, including students and teachers.
 - **Leave Approval**: Approve or reject leave applications from students.
 - **Profile Management**: Admins can update their email, change their password, and update their profile photo.
+- **User Activation/Blocking**: Admins can activate or block any user account. Blocked users cannot log in.
 
 ### Teacher Dashboard
 - **Course Management**: Manage the courses they are teaching.
