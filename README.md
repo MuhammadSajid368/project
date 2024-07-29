@@ -4,6 +4,7 @@
 This Learning Management System (LMS) is a comprehensive platform designed for educational institutions to manage and deliver courses online. The system includes separate dashboards for administrators, teachers, and students, each with specific functionalities. The LMS allows admins to add courses and events, manage users, and approve leave requests. Students can purchase courses, apply for leave, and access course materials.
 
 ## Features
+
 ### Admin Panel
 - **Admin Authentication**: Secure login using AWS Cognito.
 - **Course Management**: Add, edit, and delete courses.
@@ -30,9 +31,10 @@ This Learning Management System (LMS) is a comprehensive platform designed for e
 - **Database**: MongoDB
 - **Authentication**: AWS Cognito
 - **Deployment**: Vercel (Frontend), AWS (Backend)
-- **Others**: Axios for HTTP requests, Mongoose for MongoDB interaction
+- **Others**: Axios for HTTP requests, Mongoose for MongoDB interaction, Stripe for course payment.
 
 ## Installation
+
 ### Prerequisites
 - Node.js and npm
 - MongoDB
