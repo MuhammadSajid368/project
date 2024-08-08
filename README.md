@@ -30,7 +30,6 @@ This Learning Management System (LMS) is a comprehensive platform designed for e
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: AWS Cognito
-- **Deployment**: Vercel (Frontend), AWS (Backend)
 - **Others**: Axios for HTTP requests, Mongoose for MongoDB interaction, Stripe for course payment.
 
 ## Installation
